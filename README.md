@@ -1,6 +1,6 @@
 # EXP: 4.Execution_of_NetworkCommands
-### Name: Rishi M
-### Register no: 212222230119
+### Name: MOHAMED ASEEM P
+### Register no: 212221230063
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
